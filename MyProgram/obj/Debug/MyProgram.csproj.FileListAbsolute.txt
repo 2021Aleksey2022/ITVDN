@@ -1,0 +1,7 @@
+E:\ITVDN\MyProgram\bin\Debug\MyProgram.exe.config
+E:\ITVDN\MyProgram\bin\Debug\MyProgram.exe
+E:\ITVDN\MyProgram\bin\Debug\MyProgram.pdb
+E:\ITVDN\MyProgram\obj\Debug\MyProgram.csproj.AssemblyReference.cache
+E:\ITVDN\MyProgram\obj\Debug\MyProgram.csproj.CoreCompileInputs.cache
+E:\ITVDN\MyProgram\obj\Debug\MyProgram.exe
+E:\ITVDN\MyProgram\obj\Debug\MyProgram.pdb
