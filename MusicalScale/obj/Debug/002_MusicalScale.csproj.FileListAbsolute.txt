@@ -1,0 +1,7 @@
+E:\ITVDN\MusicalScale\bin\Debug\MusicalScale.exe.config
+E:\ITVDN\MusicalScale\bin\Debug\MusicalScale.exe
+E:\ITVDN\MusicalScale\bin\Debug\MusicalScale.pdb
+E:\ITVDN\MusicalScale\obj\Debug\002_MusicalScale.csproj.AssemblyReference.cache
+E:\ITVDN\MusicalScale\obj\Debug\002_MusicalScale.csproj.CoreCompileInputs.cache
+E:\ITVDN\MusicalScale\obj\Debug\MusicalScale.exe
+E:\ITVDN\MusicalScale\obj\Debug\MusicalScale.pdb
