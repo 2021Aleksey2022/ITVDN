@@ -1,0 +1,7 @@
+E:\ITVDN\FormatSpecifier\bin\Debug\FormatSpecifier.exe.config
+E:\ITVDN\FormatSpecifier\bin\Debug\FormatSpecifier.exe
+E:\ITVDN\FormatSpecifier\bin\Debug\FormatSpecifier.pdb
+E:\ITVDN\FormatSpecifier\obj\Debug\FormatSpecifier.csproj.AssemblyReference.cache
+E:\ITVDN\FormatSpecifier\obj\Debug\FormatSpecifier.csproj.CoreCompileInputs.cache
+E:\ITVDN\FormatSpecifier\obj\Debug\FormatSpecifier.exe
+E:\ITVDN\FormatSpecifier\obj\Debug\FormatSpecifier.pdb

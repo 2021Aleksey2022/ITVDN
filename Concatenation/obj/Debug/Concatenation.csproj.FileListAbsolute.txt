@@ -1,0 +1,7 @@
+E:\ITVDN\Concatenation\bin\Debug\Concatenation.exe.config
+E:\ITVDN\Concatenation\bin\Debug\Concatenation.exe
+E:\ITVDN\Concatenation\bin\Debug\Concatenation.pdb
+E:\ITVDN\Concatenation\obj\Debug\Concatenation.csproj.AssemblyReference.cache
+E:\ITVDN\Concatenation\obj\Debug\Concatenation.csproj.CoreCompileInputs.cache
+E:\ITVDN\Concatenation\obj\Debug\Concatenation.exe
+E:\ITVDN\Concatenation\obj\Debug\Concatenation.pdb
