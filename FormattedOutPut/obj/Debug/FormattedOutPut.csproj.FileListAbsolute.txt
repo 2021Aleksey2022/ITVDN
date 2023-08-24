@@ -1,0 +1,6 @@
+E:\ITVDN\FormattedOutPut\bin\Debug\FormattedOutPut.exe.config
+E:\ITVDN\FormattedOutPut\bin\Debug\FormattedOutPut.exe
+E:\ITVDN\FormattedOutPut\bin\Debug\FormattedOutPut.pdb
+E:\ITVDN\FormattedOutPut\obj\Debug\FormattedOutPut.csproj.CoreCompileInputs.cache
+E:\ITVDN\FormattedOutPut\obj\Debug\FormattedOutPut.exe
+E:\ITVDN\FormattedOutPut\obj\Debug\FormattedOutPut.pdb
